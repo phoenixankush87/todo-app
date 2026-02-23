@@ -16,7 +16,7 @@ const Circle = ({ size = 100, color = 'black' }) => {
   );
 };
   return <SafeAreaView style={styles.Container}>
-    <Text>To DO App</Text>
+    <Text>My To Do</Text>
      <Circle />
     </SafeAreaView>;
 // return <Text>Animation Screen</Text>;
